@@ -20,7 +20,14 @@ HW3 待辦清單與番茄鐘紀錄[連結](「HW3_待辦清單與番茄鐘紀錄
 
 HW4 PTT_GoogleSheet_RAG[連結](HW4_PTT_GoogleSheet_RAG_.ipynb)
 
-**課程筆記區**
+**影片連結區**
 -
-**專題連結區**
--
+HW2 說明[連結](https://youtu.be/fQxWAvMyjUk)
+
+HW2 AI協作[連結](https://youtu.be/OJNewcgQgM0)
+
+HW3 說明[連結](https://youtu.be/ZU34EXJag6E)
+
+HW3 AI協作[連結](https://youtu.be/futtPKAI9I0)
+
+HW4 說明[連結](https://youtu.be/I0lDLJ60YCI)
