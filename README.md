@@ -18,6 +18,8 @@ HW2成績一本通[連結](HW2_成績一本通.ipynb)
 
 HW3待辦清單與番茄鐘紀錄[連結](「HW3_待辦清單與番茄鐘紀錄_ipynb」的副本.ipynb)
 
+HW4[連結](https://github.com/yuhan222/114-2-Programing-Language/blob/main/HW4_PTT_GoogleSheet_RAG_.ipynb)
+
 **課程筆記區**
 -
 **專題連結區**
