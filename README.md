@@ -10,15 +10,15 @@
 
 **作業連結區**
 -
-HW1日常支出速算與分攤Part1[連結](「HW1_日常支出速算與分攤_ipynb」的副本.ipynb)
+HW1 日常支出速算與分攤Part1[連結](「HW1_日常支出速算與分攤_ipynb」的副本.ipynb)
 
-HW1日常支出速算與分攤Part2[連結](HW1_日常支出速算與分攤_Part_2.ipynb)
+HW1 日常支出速算與分攤Part2[連結](HW1_日常支出速算與分攤_Part_2.ipynb)
 
-HW2成績一本通[連結](HW2_成績一本通.ipynb)
+HW2 成績一本通[連結](HW2_成績一本通.ipynb)
 
-HW3待辦清單與番茄鐘紀錄[連結](「HW3_待辦清單與番茄鐘紀錄_ipynb」的副本.ipynb)
+HW3 待辦清單與番茄鐘紀錄[連結](「HW3_待辦清單與番茄鐘紀錄_ipynb」的副本.ipynb)
 
-HW4[連結](https://github.com/yuhan222/114-2-Programing-Language/blob/main/HW4_PTT_GoogleSheet_RAG_.ipynb)
+HW4 PTT_GoogleSheet_RAG[連結](HW4_PTT_GoogleSheet_RAG_.ipynb)
 
 **課程筆記區**
 -
